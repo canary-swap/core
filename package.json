@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/core",
+  "name": "@canary-swap/core",
   "version": "1.4.2",
   "license": "MIT",
   "types": "./types/index.ts",
@@ -15,7 +15,7 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushiswap/sushiswap.git"
+    "url": "git+https://github.com/canary-swap/sushiswap.git"
   },
   "bugs": {
     "url": "https://github.com/sushiswap/sushiswap/issues"
